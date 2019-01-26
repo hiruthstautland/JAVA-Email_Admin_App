@@ -23,3 +23,8 @@ Setting up
 - setting up sdk in Intelij
 - creating a new javascript file 
   - project structure - modules - project - sources - then finally we could create a package and java classes
+---------------------------------------
+JAVA
+JAVAC / M /NPM
+
+Make sure JRD settings are correct
